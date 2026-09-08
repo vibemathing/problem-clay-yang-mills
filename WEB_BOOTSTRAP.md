@@ -1,18 +1,18 @@
 # Web Research Bootstrap
 
-- Repository: `vibemathing/vibe-mathing-problem-public-template`
+- Repository: `vibemathing/problem-clay-yang-mills`
 - Repository binding: `verified`
-- Repository database ID: `1358726712`
-- Repository node ID: `R_kgDOUPyGOA`
+- Repository database ID: `1361063932`
+- Repository node ID: `R_kgDOUSAv_A`
 - Default branch: `main`
 - Visibility: `public`
-- Canonical Problem: `problem:template-placeholder`
-- ProblemContract SHA-256: `e64cd03254e03dd661eade23243c3c21793fc2d8bffa2d33c172cf8ed2e7f940`
+- Canonical Problem: `problem:clay-yang-mills`
+- ProblemContract SHA-256: `664200dd74060a047a3b2709b4cd16abd4bcf16a37724f4d8df3e651e6909a41`
 - Problem lifecycle: `draft`
 - Problem admission: `preview_unadmitted`
 - Harness suite: `harness-source:web-research-full` `1.2.4`
 - Suite manifest SHA-256: `fedd664f1ac16c5232eb05076b73f2bab566ed672840e7f2af851c77253813b3`
-- Harness snapshot SHA-256: `a9ae2bc14e33fba31934d2a44e3c37bfbb52a3a1cf098d646b31c9c5ddf173e3`
+- Harness snapshot SHA-256: `702f64ef4a2ba88b3ba6a1773a1df487e0b3b347cead23d2976335803fafd095`
 - Channel: `chatgpt-web-github-issue-pr-writer`
 
 ## Required read order
